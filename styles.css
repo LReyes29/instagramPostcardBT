@@ -1,0 +1,30 @@
+
+.container-fluid{
+    background-color: rgb(26, 26, 26);
+}
+
+.card {
+    margin: 0 auto;
+    border:0px;
+}
+
+.card-head{
+    height:60px;
+}
+
+.card-head i{
+    padding-top: 8px;
+    /* Pq no funciona vertical-align:middle; */
+}
+
+img{
+    border-radius: 0rem ;
+}
+
+.card-body {
+    padding:10px;    
+}
+
+p{
+    text-align: justify;
+}
